@@ -26,4 +26,8 @@
   <a href="mailto:roberta.mmendes05@gmail.com" target="_blank"><img height="40" width="55" src="https://cdn.dribbble.com/userupload/20291387/file/original-3d4c8096fc3407c582fe2d051d3e5552.gif" target="_blank"></a>
 </div>
 
-![Snake animation](https://github.com/mendesRoberta/mendesRoberta/blob/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mendesRoberta/mendesRoberta/output/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mendesRoberta/mendesRoberta/output/snake.svg">
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/mendesRoberta/mendesRoberta/output/snake.svg">
+</picture>
